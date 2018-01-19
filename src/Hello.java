@@ -12,5 +12,7 @@ public class Hello {
 		System.out.println("test only changed no merge");
 		
 		System.out.println("chkeck");
+		
+		System.out.println(" origin changed");
 	}
 }
