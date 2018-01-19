@@ -5,5 +5,6 @@ public class Hello {
 		System.out.println("hello");
 		System.out.println("World !!");
 		System.out.println("mergi test ");
+		System.out.println("new line");
 	}
 }
