@@ -10,5 +10,7 @@ public class Hello {
 		System.out.println("master changed to test merge test");
 		
 		System.out.println("test only changed no merge");
+		
+		System.out.println("chkeck");
 	}
 }
