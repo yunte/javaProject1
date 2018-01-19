@@ -6,5 +6,9 @@ public class Hello {
 		System.out.println("World !!");
 		System.out.println("mergi test ");
 		System.out.println("new line");
+		
+		System.out.println("master changed to test merge test");
+		
+		System.out.println("test only changed no merge");
 	}
 }
